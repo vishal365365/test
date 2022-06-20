@@ -1,3 +1,7 @@
 who is this
+<<<<<<< HEAD
 hello how are you
 what about you
+=======
+hello are you
+>>>>>>> 4aeb1f16ff5100c414017e79783aafd636affbb8
